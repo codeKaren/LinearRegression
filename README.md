@@ -1,0 +1,1 @@
+An implementation of multivariate linear regression with feature normalization to predict housing prices. This was my first machine learning project, and I used both gradient descent and the normal equation to optimize the parameters, theta.
